@@ -5,7 +5,8 @@ For this project, I create a data set of simulated data relating to the phenomen
 
 The jupyter notebook in this repository details the process I undertook to generate the final simulated data set. I examine the properties and relationships between each variable in the pre existing data set, while for the BMI variable, I research its characteristics and likely relationship with Possession, Shots and Result. Based on these variable properties, I generate simulated data using the `numpy.random` package. 
 
-The jupyter notebook is divided into 3 sections:
+The jupyter notebook is divided into 4 sections:
+* Project Brief
 * Phenomenon chosen
 * Investigation of variables
 * Simulation
